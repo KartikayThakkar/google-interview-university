@@ -25,11 +25,6 @@
 
 - [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
-    - I loved this book. It covered everything and more.
-    - Pythonic code
-    - my glowing book report: https://googleyasheck.com/book-report-data-structures-and-algorithms-in-python/
-
-
 
 ### 1. Use Flashcards
 
@@ -46,12 +41,6 @@ My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (
 You can see my code here:
  - [Python] (https://github.com/jwasham/practice-python)
 
-## Prerequisite Knowledge
-
-- [x] **Learn C**
-    - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-- [ ] **How computers process a program:**
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
